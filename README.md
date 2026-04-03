@@ -1,5 +1,7 @@
 CAPSTONE PROJECT AND STORYTELLING  WALK-THROUGH
-##Problem Statement##
+
+## Problem Statement ##
+
 
 The business had access to a large sales dataset containing order, product, customer, and geographic information. However, the raw data was messy, inconsistent, and not analysis-ready, making it difficult for decision-makers to understand sales performance, revenue trends, and key growth drivers.
 The objective of this project was to clean, analyze, and transform the raw sales data into clear, reliable insights, and present those insights through an interactive dashboard that stakeholders could use to make informed business decisions.
