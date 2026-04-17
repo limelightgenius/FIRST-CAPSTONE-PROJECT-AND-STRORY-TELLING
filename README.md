@@ -7,40 +7,66 @@ The objective of this project was to clean, analyze, and transform the raw sales
 
 ## Project Objectives ##
 •	Clean and standardize raw sales data to ensure accuracy and consistency
+
 •	Analyze sales performance across time, product lines, deal sizes, and regions
+
 •	Identify key revenue drivers and performance trends
+
 •	Build a professional dashboard that communicates insights clearly to non-technical stakeholders
 
 ## Methodology & Workflows ##
 
 1. Data Cleaning (Python, Excel, SQL)
+2. 
 The project began with extensive data cleaning using Python (Pandas), supported by Excel and SQL where appropriate.
 Key cleaning steps included:
+
 •	Handling missing values in critical numerical and date fields
+
 •	Removing duplicate transactions to prevent inflated revenue figures
+
 •	Fixing incorrect data types (dates, quantities, prices)
+
 •	Standardizing text fields (status, country, product line)
+
 •	Correcting inconsistent categorical values
+
 •	Handling outliers in quantity and pricing data
+
 •	Filtering out cancelled and invalid orders
+
 •	Creating new calculated fields such as Revenue, Year, Month, and Quarter
+
 •	Renaming and removing irrelevant columns for clarity
+
 This process transformed the raw dataset into a clean, reliable, analysis-ready dataset.
 
-2. Analytical Exploration (SQL + Excel Integration)
+4. Analytical Exploration (SQL + Excel Integration)
+5. 
 Once the data was cleaned, SQL was used to extract and aggregate key business metrics, including:
+
 •	Total and yearly revenue
+
 •	Monthly revenue trends
+
 •	Revenue by product line
+
 •	Revenue by deal size
+
 •	Revenue by order status
+
 •	Revenue by country
 
 The SQL outputs were then imported into Excel for:
+
 •	Pivot table analysis
+
 •	Trend identification
+
 •	Cross-checking and validating metrics
+
 •	Initial visual exploration
+
 This step ensured both accuracy and analytical depth, combining SQL’s precision with Excel’s flexibility.
 
 4. Visualization & Storytelling (Power BI)
