@@ -54,7 +54,7 @@ The dashboard included:
 •	Interactive slicers for time period, product line, country, and deal size
 The dashboard was designed to be executive-friendly, enabling users to explore insights quickly without technical knowledge.
 
-## Key Insights Discovered ##
+## Key Insights and Recommendation ##
 
 - YEARLY SALES: Theres a good stsrt in 2003 following a great peak/ performance in 20o4 alonside huge dip in 2005. more marketing/discount might help boost sales again
 
@@ -68,8 +68,11 @@ The dashboard was designed to be executive-friendly, enabling users to explore i
 
 ## Business Value ##
 •	Provided leadership with a single source of truth for sales performance
+
 •	Enabled faster, data-driven decision-making through interactive reporting
+
 •	Highlighted key revenue drivers and underperforming segments
+
 •	Demonstrated an end-to-end analytics workflow: data cleaning → analysis → visualization → insight
 
 
